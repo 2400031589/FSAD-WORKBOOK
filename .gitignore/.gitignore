@@ -1,0 +1,29 @@
+# Eclipse workspace files
+.metadata/
+.settings/
+.project
+.classpath
+
+# Build folders
+bin/
+target/
+build/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE temporary files
+*.tmp
+*.swp
+*~
