@@ -14,7 +14,7 @@ public class StudentController {
     Map<Integer, Student> students = new HashMap<>();
 
     public StudentController() {
-        students.put(1, new Student(1, "Bharath", "CSE"));
+        students.put(1, new Student(1, "Siva", "CSE"));
         students.put(2, new Student(2, "Shobin", "ECE"));
         students.put(3, new Student(3, "harsha", "IT"));
     }
